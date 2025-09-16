@@ -1,0 +1,3 @@
+scrapetube
+yt-dlp
+pyinstaller

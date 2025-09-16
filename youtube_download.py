@@ -9,7 +9,7 @@ import threading
 class ShortsDownloader:
     def __init__(self, root):
         self.root = root
-        self.root.title("Tải Shorts YouTube từ @username")
+        self.root.title("Shorts Downloader by Dat0o")
         self.root.geometry("950x780")
         
         self.shorts_list = []
